@@ -13,7 +13,7 @@ I'm a B.Tech Cybersecurity & Forensics student at UPES Dehradun, passionate abou
 - 🛡️ **Interests:** Cybersecurity, Cloud Security, Penetration Testing, Vulnerability Assessment & Cryptography
 - 🌱 **Currently Learning:** Advanced DSA, Cloud Security & Secure Software Development
 - 💬 **Ask Me About:** Python, AWS, Cybersecurity, Cryptography & DSA
-- 📧 **Email:** hardiksaxena2607@gmail.com
+- 📧 **Email:** hardiksaxena2626@gmail.com
 
 ---
 
