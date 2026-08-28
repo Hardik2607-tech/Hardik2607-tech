@@ -68,31 +68,31 @@ I enjoy developing cloud security solutions, vulnerability detection systems, an
 ### 🔹 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-2563EB?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-1D4ED8?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ### 🔹 Cloud Technologies
 
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-374151?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/S3-16A34A?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/IAM-F59E0B?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/EC2-F97316?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/CloudTrail-EF4444?style=for-the-badge&logo=amazonaws&logoColor=white">
 </p>
 
 ### 🔹 Cybersecurity Tools
 
 <p>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge">
-<img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge">
-<img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/Wireshark-0284C7?style=for-the-badge&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/Burp%20Suite-F97316?style=for-the-badge&logo=burpsuite&logoColor=white">
+<img src="https://img.shields.io/badge/Nmap-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Nessus-06B6D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Metasploit-3B82F6?style=for-the-badge">
+<img src="https://img.shields.io/badge/John%20the%20Ripper-475569?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0EA5E9?style=for-the-badge&logo=cisco&logoColor=white">
 </p>
 
 ### 🔹 Security Concepts
@@ -110,10 +110,10 @@ I enjoy developing cloud security solutions, vulnerability detection systems, an
 ### 🔹 Development & Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Git-EF4444?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-0284C7?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-F97316?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
 ---
@@ -241,19 +241,15 @@ Intelligent fuzz-testing pipeline designed to improve vulnerability discovery an
 
 ## 💻 Coding Profiles
 
-<p align="left">
-
 <a href="https://leetcode.com/u/Hardik_Saxena/">
-<img src="https://img.shields.io/badge/LeetCode-PROFILE-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/LeetCode-PROFILE-F97316?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.geeksforgeeks.org/user/hardikflxz/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-PROFILE-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+<img src="https://img.shields.io/badge/GeeksforGeeks-PROFILE-65A30D?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
 </a>
-
-</p>
 
 </td>
 
@@ -267,19 +263,19 @@ Intelligent fuzz-testing pipeline designed to improve vulnerability discovery an
 <p align="left">
 
 <a href="https://linkedin.com/in/hardik-saxena-b49313299">
-<img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-PROFILE-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 &nbsp;
 
 <a href="https://github.com/Hardik2607-tech">
-<img src="https://img.shields.io/badge/GITHUB-HARDIK2607--TECH-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-HARDIK2607--TECH-334155?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 &nbsp;
 
 <a href="mailto:hardiksaxena2607@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EF4444?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
@@ -295,7 +291,7 @@ Intelligent fuzz-testing pipeline designed to improve vulnerability discovery an
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hardik2607-tech&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" width="100%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Hardik2607-tech&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" width="100%" alt="GitHub Stats">
 
 </p>
 
@@ -307,7 +303,7 @@ Intelligent fuzz-testing pipeline designed to improve vulnerability discovery an
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Hardik2607-tech&theme=github-dark&hide_border=true" width="100%" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=Hardik2607-tech&theme=github-dark-blue&hide_border=true&border_radius=8" width="100%" alt="GitHub Streak">
 
 </p>
 
@@ -334,7 +330,11 @@ Intelligent fuzz-testing pipeline designed to improve vulnerability discovery an
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik2607-tech&theme=github-compact&hide_border=true&area=true&custom_title=Hardik2607-tech%20-%20GitHub%20Activity" width="95%" alt="Hardik2607-tech GitHub Activity Graph">
+<a href="https://github.com/Hardik2607-tech">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik2607-tech&bg_color=0d1117&color=93c5fd&line=60a5fa&point=38bdf8&area_color=1e3a5f&area=true&hide_border=true&custom_title=Hardik2607-tech%20-%20GitHub%20Activity" width="95%" alt="Hardik2607-tech GitHub Activity Graph">
+
+</a>
 
 </p>
 
@@ -344,14 +344,14 @@ Intelligent fuzz-testing pipeline designed to improve vulnerability discovery an
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Advanced%20DSA-Important-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge&logo=amazonaws">
-<img src="https://img.shields.io/badge/Cloud%20Security-Learning-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Penetration%20Testing-Learning-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Cryptography-Learning-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/DevSecOps-Learning-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI%2FML%20for%20Cybersecurity-Learning-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/ADVANCED%20DSA-IMPORTANT-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/PYTHON-LEARNING-F59E0B?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-LEARNING-F97316?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/CLOUD%20SECURITY-LEARNING-EF4444?style=for-the-badge">
+<img src="https://img.shields.io/badge/PENETRATION%20TESTING-LEARNING-475569?style=for-the-badge">
+<img src="https://img.shields.io/badge/CRYPTOGRAPHY-LEARNING-A855F7?style=for-the-badge">
+<img src="https://img.shields.io/badge/DEVSECOPS-LEARNING-0284C7?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI%2FML%20FOR%20CYBERSECURITY-LEARNING-65A30D?style=for-the-badge">
 
 </p>
 
@@ -381,11 +381,11 @@ Intelligent fuzz-testing pipeline designed to improve vulnerability discovery an
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Focus-Cloud%20Security-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Focus-Secure%20Software-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Focus-DSA-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/Focus-Cryptography-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-EF4444?style=for-the-badge">
+<img src="https://img.shields.io/badge/FOCUS-CLOUD%20SECURITY-F97316?style=for-the-badge">
+<img src="https://img.shields.io/badge/FOCUS-SECURE%20SOFTWARE-0284C7?style=for-the-badge">
+<img src="https://img.shields.io/badge/FOCUS-DSA-65A30D?style=for-the-badge">
+<img src="https://img.shields.io/badge/FOCUS-CRYPTOGRAPHY-A855F7?style=for-the-badge">
 
 </p>
 
