@@ -303,85 +303,104 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 
 <hr>
 
-## 📈 GitHub Activity
+# 📈 GitHub Activity
 
-<p align="left">
-
-<a href="https://github.com/Hardik2607-tech">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik2607-tech&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true"
-  width="95%"
-  alt="Hardik2607-tech GitHub Activity Graph"
-/>
-
-</a>
-
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hardik2607-tech&theme=github_dark"
+    width="95%"
+    alt="Hardik2607-tech GitHub Activity"
+  />
 </p>
 
----
+<hr>
 
 # 🧠 Currently Learning
 
-<p align="left">
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<tr>
 
-<img
-  src="https://img.shields.io/badge/ADVANCED%20DSA-IMPORTANT-1F6FEB?style=for-the-badge"
-  alt="Advanced DSA"
-/>
+<td width="50%" align="center">
 
-&nbsp;&nbsp;
+### 🔥 Advanced DSA
 
-<img
-  src="https://img.shields.io/badge/PYTHON-LEARNING-F2CC60?style=for-the-badge&logo=python&logoColor=black"
-  alt="Python"
-/>
+<img src="https://img.shields.io/badge/IMPORTANT-2F80ED?style=for-the-badge">
 
-&nbsp;&nbsp;
+</td>
 
-<img
-  src="https://img.shields.io/badge/AWS-LEARNING-FF8C42?style=for-the-badge&logo=amazonaws&logoColor=white"
-  alt="AWS"
-/>
+<td width="50%" align="center">
 
-&nbsp;&nbsp;
+### 🐍 Python
 
-<img
-  src="https://img.shields.io/badge/CLOUD%20SECURITY-LEARNING-F85149?style=for-the-badge"
-  alt="Cloud Security"
-/>
+<img src="https://img.shields.io/badge/LEARNING-F2C94C?style=for-the-badge&logo=python&logoColor=black">
 
-<br><br>
+</td>
 
-<img
-  src="https://img.shields.io/badge/PENETRATION%20TESTING-LEARNING-30363D?style=for-the-badge"
-  alt="Penetration Testing"
-/>
+</tr>
 
-&nbsp;&nbsp;
+<tr>
 
-<img
-  src="https://img.shields.io/badge/CRYPTOGRAPHY-LEARNING-A371F7?style=for-the-badge"
-  alt="Cryptography"
-/>
+<td width="50%" align="center">
 
-&nbsp;&nbsp;
+### ☁️ AWS
 
-<img
-  src="https://img.shields.io/badge/DEVSECOPS-LEARNING-1F9CF0?style=for-the-badge"
-  alt="DevSecOps"
-/>
+<img src="https://img.shields.io/badge/LEARNING-FF8A3D?style=for-the-badge&logo=amazonaws&logoColor=white">
 
-&nbsp;&nbsp;
+</td>
 
-<img
-  src="https://img.shields.io/badge/AI%2FML%20FOR%20CYBERSECURITY-LEARNING-6DB33F?style=for-the-badge"
-  alt="AI ML for Cybersecurity"
-/>
+<td width="50%" align="center">
 
-</p>
+### 🛡️ Cloud Security
 
----
+<img src="https://img.shields.io/badge/LEARNING-EB5757?style=for-the-badge">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🧪 Penetration Testing
+
+<img src="https://img.shields.io/badge/LEARNING-343A40?style=for-the-badge">
+
+</td>
+
+<td width="50%" align="center">
+
+### 🔐 Cryptography
+
+<img src="https://img.shields.io/badge/LEARNING-9B51E0?style=for-the-badge">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### ⚙️ DevSecOps
+
+<img src="https://img.shields.io/badge/LEARNING-2196F3?style=for-the-badge">
+
+</td>
+
+<td width="50%" align="center">
+
+### 🤖 AI/ML for Cybersecurity
+
+<img src="https://img.shields.io/badge/LEARNING-6FCF3D?style=for-the-badge">
+
+</td>
+
+</tr>
+</table>
+
+<hr>
+
 
 # 🎯 Career Interests
 
@@ -395,52 +414,77 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 &nbsp; • &nbsp;
 ⚙️ <b>Security Engineering</b>
 &nbsp; • &nbsp;
-🚀 <b>DevSecOps</b>
-&nbsp; • &nbsp;
 🔎 <b>Digital Forensics</b>
 
 </p>
 
 ---
 
+<hr>
+
 # 📈 Profile Focus
 
-<p align="left">
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
 
-<img
-  src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-F85149?style=for-the-badge"
-  alt="Cybersecurity"
-/>
+<tr>
 
-&nbsp;&nbsp;
+<td width="50%" valign="top">
 
-<img
-  src="https://img.shields.io/badge/FOCUS-CLOUD%20SECURITY-FF8C42?style=for-the-badge"
-  alt="Cloud Security"
-/>
+### 🔐 Cybersecurity
 
-&nbsp;&nbsp;
+Protecting systems, networks and data from evolving threats.
 
-<img
-  src="https://img.shields.io/badge/FOCUS-SECURE%20SOFTWARE-1F9CF0?style=for-the-badge"
-  alt="Secure Software"
-/>
+</td>
 
-&nbsp;&nbsp;
+<td width="50%" valign="top">
 
-<img
-  src="https://img.shields.io/badge/FOCUS-DSA-6DB33F?style=for-the-badge"
-  alt="DSA"
-/>
+### ☁️ Cloud Security
 
-&nbsp;&nbsp;
+Securing cloud environments and ensuring data confidentiality.
 
-<img
-  src="https://img.shields.io/badge/FOCUS-CRYPTOGRAPHY-A371F7?style=for-the-badge"
-  alt="Cryptography"
-/>
+</td>
 
-</p>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛡️ Secure Software
+
+Building secure, reliable and vulnerability-resistant software.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 DSA
+
+Strengthening problem-solving skills and algorithmic thinking.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔒 Cryptography
+
+Understanding cryptographic principles and building secure systems.
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+
+</tr>
+
+</table>
+
+<hr>
 
 ---
 
