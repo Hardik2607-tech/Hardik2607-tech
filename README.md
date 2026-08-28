@@ -145,64 +145,72 @@ hardiksaxena2607@gmail.com
 - Worked with SDLC workflows in a startup environment.
 - Applied programming and problem-solving skills to practical development tasks.
 
----
+
+<hr>
 
 # 🚀 Featured Projects
 
-## ☁️ Cloud Security Misconfiguration Detection System
+<table width="100%">
+<tr>
 
-**Python • AWS • Boto3**
+<td width="33%" valign="top">
 
-Developed automated security scanners for AWS services to identify cloud security misconfigurations across:
+### ☁️ Cloud Security Misconfiguration Detection
 
-- Amazon S3
-- IAM
-- EC2
-- CloudTrail
+**Python · AWS · Boto3**
 
-### Key Features
+Developed automated scanners to detect security misconfigurations across AWS services.
 
-- Automated security scanning
-- Rule-based risk classification
-- Severity assessment
-- Security findings generation
-- Remediation recommendations
+**Coverage**
 
----
+• S3 &nbsp; • IAM  
+• EC2 &nbsp; • CloudTrail
 
-## 🔒 Otter Chat Encryption Tool
+Implemented rule-based severity classification and automated JSON remediation reporting.
 
-**JavaScript • C++ • X3DH • AES-256 • Curve25519**
+</td>
 
-Contributed to implementing end-to-end encrypted communication using modern cryptographic protocols.
+<td width="33%" valign="top">
 
-### Security Features
+### 🔐 Otter Chat Encryption Tool
 
-- 🔐 End-to-end encryption
-- 🔑 Secure key exchange
-- 🛡️ X3DH protocol
-- 🔒 AES-256 encryption
-- 🔑 Curve25519 cryptography
-- 🕵️ Privacy-focused communication
-- 🧅 Tor Hidden Service support
+**JavaScript · C++ · X3DH · AES-256 · Curve25519**
 
----
+Contributed to secure end-to-end encrypted communication using modern cryptographic protocols.
 
-## 🛡️ Fuzzinator
+**Key Areas**
 
-**Python • Machine Learning**
+• Secure key exchange  
+• AES-256 encryption  
+• X3DH protocol  
+• Curve25519 cryptography
 
-Developed intelligent fuzz testing pipelines using machine learning techniques to improve vulnerability detection and software robustness.
+</td>
 
-### Focus Areas
+<td width="33%" valign="top">
 
-- Automated fuzz testing
-- Vulnerability detection
-- Input mutation
-- Machine learning
-- Software robustness
+### 🛡️ Fuzzinator
 
----
+**Python · Machine Learning**
+
+Developed intelligent fuzz testing pipelines using machine learning to improve vulnerability detection and software robustness.
+
+**Key Areas**
+
+• Input generation  
+• Mutation strategies  
+• Data preprocessing  
+• Model training
+
+</td>
+
+</tr>
+</table>
+
+<hr>
+
+
+
 
 # 📜 Certifications
 
@@ -253,7 +261,6 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 
 </p>
 
----
 <hr>
 
 # 📊 GitHub Stats
@@ -411,7 +418,6 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 
 </p>
 
----
 
 <hr>
 
@@ -474,7 +480,7 @@ Designing secure, reliable, and resilient systems.
 </table>
 
 <hr>
----
+
 
 <h3 align="left">
 
@@ -495,3 +501,5 @@ Designing secure, reliable, and resilient systems.
 <b>Let's build secure, scalable and reliable systems together.</b>
 
 </p>
+
+<hr>
