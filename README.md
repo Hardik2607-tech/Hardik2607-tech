@@ -219,19 +219,16 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
   *A Unified Review of Advanced Paradigms in Spiking Neural Networks*
 
 ---
-
 # 💻 Coding Profiles
 
 <p align="left">
 
 <a href="https://leetcode.com/u/Hardik_Saxena/">
-<img src="https://img.shields.io/badge/LEETCODE-PROFILE-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/LEETCODE-F2A900?style=for-the-badge&logo=leetcode&logoColor=white" height="42">
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/user/hardikflxz/">
-<img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+<img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="42">
 </a>
 
 </p>
@@ -243,19 +240,15 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 <p align="left">
 
 <a href="https://linkedin.com/in/hardik-saxena-b49313299">
-<img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42">
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Hardik2607-tech">
-<img src="https://img.shields.io/badge/GITHUB-HARDIK2607--TECH-24292F?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" height="42">
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:hardiksaxena2607@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42">
 </a>
 
 </p>
