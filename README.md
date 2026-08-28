@@ -1,69 +1,32 @@
 # Hi 👋, I'm Hardik Saxena
 
-### 🔐 Cybersecurity & Forensics Undergraduate | Cloud Security | Secure Software Development
+<h3 align="center">
+🔐 Cybersecurity & Forensics Undergraduate | Cloud Security | Secure Software Development
+</h3>
 
 <table>
 <tr>
 
-<td width="70%" valign="top">
+<td width="50%" valign="top">
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<p>
-I'm a <b>B.Tech Cybersecurity & Forensics student</b> at
-<b>UPES Dehradun</b>, passionate about building secure software
-and solving real-world cybersecurity challenges.
-</p>
+I'm a **B.Tech Cybersecurity & Forensics student at UPES Dehradun**, passionate about building secure software and solving real-world cybersecurity challenges.
 
-<p>
-I enjoy working on cloud security, vulnerability detection,
-cryptography, network security and security automation while
-continuously strengthening my problem-solving skills through DSA.
-</p>
+I enjoy developing cloud security solutions, vulnerability detection systems, and cryptographic applications while continuously strengthening my problem-solving skills through DSA.
 
-<ul>
-
-<li>
-🎓 <b>B.Tech CSE (Cybersecurity & Forensics)</b> –
-UPES Dehradun | <b>2023 – 2027</b> | CGPA: <b>8.00</b>
-</li>
-
-<li>
-💼 <b>Internship Experience:</b>
-IBM, UJVNL & Right Zone Pvt. Ltd.
-</li>
-
-<li>
-🛡️ <b>Interests:</b>
-Cybersecurity, Cloud Security, Penetration Testing,
-Vulnerability Assessment & Cryptography
-</li>
-
-<li>
-🌱 <b>Currently Learning:</b>
-Advanced DSA, Python, Cloud Security,
-DevSecOps & AI/ML for Cybersecurity
-</li>
-
-<li>
-💬 <b>Ask Me About:</b>
-Python, AWS, Cybersecurity, Cryptography & DSA
-</li>
-
-<li>
-📧 <b>Email:</b>
-<a href="mailto:hardiksaxena2607@gmail.com">
-hardiksaxena2607@gmail.com
-</a>
-</li>
-
-</ul>
+- 🎓 **B.Tech CSE (Cybersecurity & Forensics)** – UPES Dehradun | **CGPA: 8.00**
+- 💼 **Internships:** IBM, UJVNL & Right Zone Pvt. Ltd.
+- 🛡️ **Interests:** Cybersecurity, Cloud Security, Penetration Testing, Vulnerability Assessment & Cryptography
+- 🌱 **Currently Learning:** Advanced DSA, Cloud Security & Secure Software Development
+- 💬 **Ask Me About:** Python, AWS, Cybersecurity, Cryptography & DSA
+- 📧 **Email:** [hardiksaxena2607@gmail.com](mailto:hardiksaxena2607@gmail.com)
 
 </td>
 
-<td width="30%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
-<img src="./image.gif" width="350" alt="Cybersecurity Animation">
+<img src="./image.gif" width="450" alt="Cybersecurity Animation">
 
 </td>
 
@@ -74,24 +37,22 @@ hardiksaxena2607@gmail.com
 
 ## 🎓 Education
 
-### B.Tech in Computer Science — Cybersecurity & Forensics
-
+**B.Tech in Computer Science — Cybersecurity & Forensics**  
 **University of Petroleum and Energy Studies (UPES), Dehradun**
 
-📅 **2023 – 2027**  
-📊 **CGPA: 8.00**
+📅 **2023 – 2027** &nbsp;&nbsp; 📊 **CGPA: 8.00**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🔹 Core Computer Science
+### 🔹 Core CS Skills
 
-- Data Structures & Algorithms
-- Database Management Systems
-- Object-Oriented Programming
-- Operating Systems
-- Computer Networks
+`Data Structures & Algorithms` &nbsp;
+`Database Management Systems` &nbsp;
+`Object-Oriented Programming` &nbsp;
+`Operating Systems` &nbsp;
+`Computer Networks`
 
 ### 🔹 Programming Languages
 
@@ -105,7 +66,7 @@ hardiksaxena2607@gmail.com
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -125,16 +86,14 @@ hardiksaxena2607@gmail.com
 
 ### 🔹 Security Concepts
 
-<p>
-<img src="https://img.shields.io/badge/Penetration%20Testing-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Vulnerability%20Assessment-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Incident%20Response-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Network%20Security-0066CC?style=for-the-badge">
-<img src="https://img.shields.io/badge/OWASP%20Top%2010-black?style=for-the-badge&logo=owasp">
-<img src="https://img.shields.io/badge/Cryptography-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/Secure%20Software%20Development-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/Cloud%20Security-orange?style=for-the-badge">
-</p>
+`Penetration Testing` &nbsp;
+`Vulnerability Assessment` &nbsp;
+`Incident Response` &nbsp;
+`Network Security` &nbsp;
+`OWASP Top 10` &nbsp;
+`Cryptography` &nbsp;
+`Secure Software Development` &nbsp;
+`Cloud Security`
 
 ### 🔹 Development & Tools
 
@@ -149,63 +108,65 @@ hardiksaxena2607@gmail.com
 
 ## 💼 Internship Experience
 
-### 🔹 IBM — Cloud Security Intern
+### 🔹 IBM | Cloud Security Intern
 
-- Developed Python-based security scanners to identify AWS cloud security misconfigurations.
+- Developed Python-based security scanners to detect AWS cloud security misconfigurations.
 - Implemented automated remediation reporting and severity-based risk classification.
 - Worked with AWS security concepts and cloud infrastructure.
-- Applied security automation to practical cloud environments.
 
-### 🔹 UJVNL — Cybersecurity Intern
+### 🔹 UJVNL | Cybersecurity Intern
 
 - Worked on security monitoring and vulnerability assessment.
-- Gained exposure to access control management.
-- Assisted with infrastructure security operations.
-- Worked on practical cybersecurity-related technical activities.
+- Gained exposure to access control management and infrastructure security operations.
+- Assisted with cybersecurity-related technical activities.
 
-### 🔹 Right Zone Pvt. Ltd. — Software Development Intern
+### 🔹 Right Zone Pvt. Ltd. | Software Development Intern
 
 - Contributed to software development and debugging.
 - Worked with SDLC workflows in a startup environment.
-- Applied programming and problem-solving skills to real-world development tasks.
+- Applied programming and problem-solving skills to practical development tasks.
 
 ---
 
 # 🚀 Featured Projects
 
-## ☁️ Cloud Security Misconfiguration Detection System
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### ☁️ Cloud Security Misconfiguration Detection System
 
 **Python • AWS • Boto3**
 
-Automated security scanning system designed to identify
-AWS security misconfigurations and improve cloud security posture.
+Developed automated security scanners for AWS services to identify cloud security misconfigurations.
 
-### 🔍 Supported Services
+**Services:**
 
 - Amazon S3
 - IAM
 - EC2
 - CloudTrail
 
-### ⚙️ Key Features
+**Features:**
 
 - Automated security scanning
-- Rule-based security checks
-- Severity-based risk classification
+- Rule-based risk classification
+- Severity assessment
 - Security findings generation
 - Remediation recommendations
-- Cloud security posture assessment
 
----
+</td>
 
-## 🔒 Otter Chat Encryption Tool
+<td width="33%" valign="top">
+
+### 🔒 Otter Chat Encryption Tool
 
 **JavaScript • C++ • X3DH • AES-256 • Curve25519**
 
-End-to-end encrypted communication and file-sharing application
-focused on secure and privacy-preserving communication.
+End-to-end encrypted communication and file-sharing application.
 
-### 🔐 Security Features
+**Security Features:**
 
 - 🔐 End-to-end encryption
 - 🔑 Secure key exchange
@@ -215,25 +176,35 @@ focused on secure and privacy-preserving communication.
 - 🕵️ Privacy-focused communication
 - 🧅 Tor Hidden Service support
 
----
+</td>
 
-## 🛡️ Fuzzinator
+<td width="33%" valign="top">
+
+### 🛡️ Fuzzinator
 
 **Python • Machine Learning**
 
-Intelligent fuzz-testing pipeline designed to improve
-vulnerability discovery and software robustness.
+Intelligent fuzz-testing pipeline designed to improve vulnerability discovery and software robustness.
 
-### 🔍 Focus Areas
+**Focus Areas:**
 
 - Automated fuzz testing
 - Vulnerability detection
 - Input mutation
 - Machine learning
 - Software robustness
-- Security testing automation
+
+</td>
+
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
 
 ## 📜 Certifications
 
@@ -241,25 +212,30 @@ vulnerability discovery and software robustness.
 - 🏅 **DSPM Fundamentals — Securiti**
 - 🏅 **YHills Cybersecurity Bootcamp**
 
----
+</td>
+
+<td width="33%" valign="top">
 
 ## 🏆 Achievements
 
 - 🥈 **Qualified for Smart India Hackathon 2025 — Internal Round**
+
 - 📄 **Published Research:**  
   *A Unified Review of Advanced Paradigms in Spiking Neural Networks*
 
----
+</td>
 
-# 💻 Coding Profiles
+<td width="33%" valign="top">
 
-<p align="left">
+## 💻 Coding Profiles
+
+<p align="center">
 
 <a href="https://leetcode.com/u/Hardik_Saxena/">
 <img src="https://img.shields.io/badge/LeetCode-PROFILE-orange?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
-&nbsp;&nbsp;
+<br><br>
 
 <a href="https://www.geeksforgeeks.org/user/hardikflxz/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-PROFILE-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
@@ -267,26 +243,31 @@ vulnerability discovery and software robustness.
 
 </p>
 
+</td>
+
+</tr>
+</table>
+
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://linkedin.com/in/hardik-saxena-b49313299">
-<img src="https://img.shields.io/badge/LinkedIn-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/Hardik2607-tech">
-<img src="https://img.shields.io/badge/GitHub-Hardik2607--tech-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-HARDIK2607--TECH-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="mailto:hardiksaxena2607@gmail.com">
-<img src="https://img.shields.io/badge/Email-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
@@ -295,23 +276,29 @@ vulnerability discovery and software robustness.
 
 # 📊 GitHub Stats
 
-<p align="center">
+<table>
+<tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hardik2607-tech&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170">
+<td width="33%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik2607-tech&layout=compact&theme=dark&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=Hardik2607-tech&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" width="100%" alt="GitHub Stats">
 
-</p>
+</td>
 
----
+<td width="33%" align="center">
 
-# 🔥 GitHub Streak
+<img src="https://streak-stats.demolab.com?user=Hardik2607-tech&theme=github-dark&hide_border=true" width="100%" alt="GitHub Streak">
 
-<p align="center">
+</td>
 
-<img src="https://streak-stats.demolab.com?user=Hardik2607-tech&theme=dark&hide_border=true" alt="GitHub Streak">
+<td width="33%" align="center">
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik2607-tech&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="100%" alt="Top Languages">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -319,13 +306,13 @@ vulnerability discovery and software robustness.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik2607-tech&theme=github-dark&hide_border=true" width="95%" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik2607-tech&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph">
 
 </p>
 
 ---
 
-# 🧠 Currently Learning
+## 🧠 Currently Learning
 
 <p align="center">
 
@@ -342,7 +329,7 @@ vulnerability discovery and software robustness.
 
 ---
 
-# 🎯 Career Interests
+## 🎯 Career Interests
 
 <p align="center">
 
@@ -362,20 +349,6 @@ vulnerability discovery and software robustness.
 
 ---
 
-# 📌 Profile Focus
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Cybersecurity-Focus-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Cloud%20Security-Focus-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Secure%20Software-Focus-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/DSA-Focus-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/Cryptography-Focus-purple?style=for-the-badge">
-
-</p>
-
----
-
 <h3 align="center">
 
 🚀 Thanks for visiting my profile!
@@ -388,9 +361,7 @@ vulnerability discovery and software robustness.
 ☁️ Exploring cloud security.  
 💻 Solving problems with code.
 
-</p>
-
-<p align="center">
+<br>
 
 <b>Let's build secure, scalable and reliable systems together.</b>
 
