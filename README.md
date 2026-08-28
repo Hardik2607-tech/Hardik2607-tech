@@ -269,40 +269,38 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 <p align="left">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Hardik2607-tech&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"
-width="48%"
-alt="Hardik2607-tech GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=Hardik2607-tech&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"
+  width="48%"
+  alt="Hardik2607-tech GitHub Stats"
 />
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik2607-tech&layout=compact&theme=github_dark&hide_border=false&langs_count=8"
-width="48%"
-alt="Most Used Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik2607-tech&layout=compact&theme=github_dark&hide_border=false&langs_count=8"
+  width="48%"
+  alt="Most Used Languages"
 />
 
 </p>
 
-<br><br>
+<br>
 
 <hr>
 
 ## 🔥 GitHub Streak
 
-<br>
-
 <p align="left">
 
 <img
-src="https://streak-stats.demolab.com?user=Hardik2607-tech&theme=github-dark-blue&hide_border=false"
-width="100%"
-alt="GitHub Streak"
+  src="https://streak-stats.demolab.com?user=Hardik2607-tech&theme=github-dark-blue&hide_border=false"
+  width="100%"
+  alt="GitHub Streak"
 />
 
 </p>
 
-<br><br>
+<br>
 
 <hr>
 
@@ -313,9 +311,9 @@ alt="GitHub Streak"
 <a href="https://github.com/Hardik2607-tech">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik2607-tech&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true"
-width="95%"
-alt="Hardik2607-tech GitHub Activity Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik2607-tech&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true"
+  width="95%"
+  alt="Hardik2607-tech GitHub Activity Graph"
 />
 
 </a>
@@ -328,35 +326,59 @@ alt="Hardik2607-tech GitHub Activity Graph"
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/ADVANCED%20DSA-IMPORTANT-1F6FEB?style=for-the-badge">
+<img
+  src="https://img.shields.io/badge/ADVANCED%20DSA-IMPORTANT-1F6FEB?style=for-the-badge"
+  alt="Advanced DSA"
+/>
 
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/PYTHON-LEARNING-F2CC60?style=for-the-badge&logo=python&logoColor=black">
+<img
+  src="https://img.shields.io/badge/PYTHON-LEARNING-F2CC60?style=for-the-badge&logo=python&logoColor=black"
+  alt="Python"
+/>
 
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/AWS-LEARNING-FF8C42?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img
+  src="https://img.shields.io/badge/AWS-LEARNING-FF8C42?style=for-the-badge&logo=amazonaws&logoColor=white"
+  alt="AWS"
+/>
 
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/CLOUD%20SECURITY-LEARNING-F85149?style=for-the-badge">
+<img
+  src="https://img.shields.io/badge/CLOUD%20SECURITY-LEARNING-F85149?style=for-the-badge"
+  alt="Cloud Security"
+/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PENETRATION%20TESTING-LEARNING-30363D?style=for-the-badge">
+<img
+  src="https://img.shields.io/badge/PENETRATION%20TESTING-LEARNING-30363D?style=for-the-badge"
+  alt="Penetration Testing"
+/>
 
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/CRYPTOGRAPHY-LEARNING-A371F7?style=for-the-badge">
+<img
+  src="https://img.shields.io/badge/CRYPTOGRAPHY-LEARNING-A371F7?style=for-the-badge"
+  alt="Cryptography"
+/>
 
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/DEVSECOPS-LEARNING-1F9CF0?style=for-the-badge">
+<img
+  src="https://img.shields.io/badge/DEVSECOPS-LEARNING-1F9CF0?style=for-the-badge"
+  alt="DevSecOps"
+/>
 
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/AI%2FML%20FOR%20CYBERSECURITY-LEARNING-6DB33F?style=for-the-badge">
+<img
+  src="https://img.shields.io/badge/AI%2FML%20FOR%20CYBERSECURITY-LEARNING-6DB33F?style=for-the-badge"
+  alt="AI ML for Cybersecurity"
+/>
 
 </p>
 
@@ -386,29 +408,48 @@ alt="Hardik2607-tech GitHub Activity Graph"
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-F85149?style=for-the-badge">
+<img
+  src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-F85149?style=for-the-badge"
+  alt="Cybersecurity"
+/>
 
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/FOCUS-CLOUD%20SECURITY-FF8C42?style=for-the-badge">
+<img
+  src="https://img.shields.io/badge/FOCUS-CLOUD%20SECURITY-FF8C42?style=for-the-badge"
+  alt="Cloud Security"
+/>
 
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/FOCUS-SECURE%20SOFTWARE-1F9CF0?style=for-the-badge">
+<img
+  src="https://img.shields.io/badge/FOCUS-SECURE%20SOFTWARE-1F9CF0?style=for-the-badge"
+  alt="Secure Software"
+/>
 
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/FOCUS-DSA-6DB33F?style=for-the-badge">
+<img
+  src="https://img.shields.io/badge/FOCUS-DSA-6DB33F?style=for-the-badge"
+  alt="DSA"
+/>
 
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/FOCUS-CRYPTOGRAPHY-A371F7?style=for-the-badge">
+<img
+  src="https://img.shields.io/badge/FOCUS-CRYPTOGRAPHY-A371F7?style=for-the-badge"
+  alt="Cryptography"
+/>
 
 </p>
 
 ---
 
-# 🚀 Thanks for visiting my profile!
+<h3 align="left">
+
+🚀 Thanks for visiting my profile!
+
+</h3>
 
 <p align="left">
 
