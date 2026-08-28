@@ -123,28 +123,67 @@ hardiksaxena2607@gmail.com
 
 `Git` `GitHub` `VS Code` `Postman`
 
----
 
-## 💼 Internship Experience
+<hr>
 
-### 🔹 IBM — Cloud Security Intern
+# 💼 Internship Experience
 
-- Developed Python-based security scanners to detect AWS cloud security misconfigurations.
-- Implemented automated remediation reporting and severity-based risk classification.
-- Worked with AWS security concepts and cloud infrastructure.
+<table width="100%">
+<tr>
 
-### 🔹 UJVNL — Cybersecurity Intern
+<td width="33%" valign="top">
 
-- Worked on security monitoring and vulnerability assessment.
-- Gained exposure to access control management and infrastructure security operations.
-- Assisted with cybersecurity-related technical activities.
+### 🔵 IBM
 
-### 🔹 Right Zone Pvt. Ltd. — Software Development Intern
+**Cloud Security Intern**
 
-- Contributed to software development and debugging.
-- Worked with SDLC workflows in a startup environment.
-- Applied programming and problem-solving skills to practical development tasks.
+Developed Python-based security scanners to detect AWS cloud security misconfigurations.
 
+**Key Areas**
+
+• Python security scanners  
+• AWS security  
+• Risk classification  
+• Remediation reporting
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔵 UJVNL
+
+**Cybersecurity Intern**
+
+Worked on security monitoring and vulnerability assessment within infrastructure security operations.
+
+**Key Areas**
+
+• Security monitoring  
+• Vulnerability assessment  
+• Access control  
+• Infrastructure security
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔵 Right Zone Pvt. Ltd.
+
+**Software Development Intern**
+
+Contributed to software development, debugging, and SDLC workflows in a startup environment.
+
+**Key Areas**
+
+• Software development  
+• Debugging  
+• SDLC workflows  
+• Problem solving
+
+</td>
+
+</tr>
+</table>
 
 <hr>
 
