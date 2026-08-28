@@ -75,54 +75,148 @@ hardiksaxena2607@gmail.com
 
 📊 **CGPA: 8.00**
 
----
 
-## 🛠️ Technical Skills
 
-### 🔹 Core CS Skills
+<hr>
 
-- Data Structures & Algorithms
-- Database Management Systems
-- Object-Oriented Programming
-- Operating Systems
-- Computer Networks
+# 🛠️ Technical Skills
 
-### 🔹 Programming Languages
+<table width="100%">
+<tr>
+
+<td width="33.33%" valign="top">
+
+### 💻 Core CS
+
+`DSA` `DBMS`  
+`OOP` `Operating Systems`  
+`Computer Networks`
+
+</td>
+
+<td width="33.33%" valign="top">
+
+### 👨‍💻 Programming
 
 `C` `C++` `Python`
 
-### 🔹 Cloud Technologies
+<br>
 
-`AWS` `S3` `IAM` `EC2` `CloudTrail`
 
-### 🔹 Cybersecurity Tools
+</td>
 
-`Wireshark` `Burp Suite` `Nmap` `Nessus`
+<td width="33.33%" valign="top">
+ 
 
-`Metasploit` `John the Ripper` `Cisco Packet Tracer`
+### ⚙️ Development
 
-### 🔹 Security Concepts
+`Git` `GitHub`  
+`VS Code` `Postman`
 
-`Penetration Testing`
+</td>
 
-`Vulnerability Assessment`
+</tr>
 
-`Incident Response`
+<tr>
 
-`Network Security`
+<td width="33.33%" valign="top">
 
-`OWASP Top 10`
+### 🔧 Security Tools
 
-`Cryptography`
+`Wireshark` `Burp Suite`  
+`Nmap` `John the Ripper`
+`Metasploit`  `Nessus`   
+`Cisco Packet Tracer`
 
-`Secure Software Development`
+</td>
 
-`Cloud Security`
+<td width="33.33%" valign="top">
 
-### 🔹 Development & Tools
+### 🛡️ Cybersecurity
 
-`Git` `GitHub` `VS Code` `Postman`
+`Penetration Testing`   
+`Incident Response`  
+`Network Security`  
+`OWASP Top 10`  
+`Cryptography` 
 
+</td>
+
+<td width="33.33%" valign="top">
+
+### ☁️ Cloud Security
+
+`AWS Security`  
+`IAM` `S3` `EC2`  
+`CloudTrail`  
+
+</td>
+
+</tr>
+</table>
+
+<hr>
+
+
+
+# 💼 Internship Experience
+
+<table width="100%">
+<tr>
+
+<td width="33.33%" valign="top">
+
+### 🔵 IBM
+
+**Cloud Security Intern**
+
+Developed Python-based security scanners to detect AWS cloud security misconfigurations.
+
+**Key Areas**
+
+- Python security scanners
+- AWS security
+- Risk classification
+- Remediation reporting
+
+</td>
+
+<td width="33.33%" valign="top">
+
+### 🔵 UJVNL
+
+**Cybersecurity Intern**
+
+Worked on security monitoring and vulnerability assessment within infrastructure security operations.
+
+**Key Areas**
+
+- Security monitoring
+- Vulnerability assessment
+- Access control
+- Infrastructure security
+
+</td>
+
+<td width="33.33%" valign="top">
+
+### 🔵 Right Zone Pvt. Ltd.
+
+**Software Development Intern**
+
+Contributed to software development, debugging, and SDLC workflows in a startup environment.
+
+**Key Areas**
+
+- Software development
+- Debugging
+- SDLC workflows
+- Problem solving
+
+</td>
+
+</tr>
+</table>
 
 <hr>
 
