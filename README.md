@@ -18,21 +18,40 @@ problem-solving skills through DSA.
 </p>
 
 <ul>
-<li>🎓 <b>B.Tech CSE (Cybersecurity & Forensics)</b> – UPES Dehradun | CGPA: <b>8.00</b></li>
 
-<li>💼 <b>Internship Experience:</b> IBM, UJVNL & Right Zone Pvt. Ltd.</li>
+<li>
+🎓 <b>B.Tech CSE (Cybersecurity & Forensics)</b> –
+UPES Dehradun | CGPA: <b>8.00</b>
+</li>
 
-<li>🛡️ <b>Interests:</b> Cybersecurity, Cloud Security, Penetration Testing, Vulnerability Assessment & Cryptography</li>
+<li>
+💼 <b>Internship Experience:</b>
+IBM, UJVNL & Right Zone Pvt. Ltd.
+</li>
 
-<li>🌱 <b>Currently Learning:</b> Advanced DSA, Cloud Security & Secure Software Development</li>
+<li>
+🛡️ <b>Interests:</b>
+Cybersecurity, Cloud Security, Penetration Testing,
+Vulnerability Assessment & Cryptography
+</li>
 
-<li>💬 <b>Ask Me About:</b> Python, AWS, Cybersecurity, Cryptography & DSA</li>
+<li>
+🌱 <b>Currently Learning:</b>
+Advanced DSA, Cloud Security & Secure Software Development
+</li>
 
-<li>📧 <b>Email:</b>
+<li>
+💬 <b>Ask Me About:</b>
+Python, AWS, Cybersecurity, Cryptography & DSA
+</li>
+
+<li>
+📧 <b>Email:</b>
 <a href="mailto:hardiksaxena2607@gmail.com">
 hardiksaxena2607@gmail.com
 </a>
 </li>
+
 </ul>
 
 </td>
@@ -76,7 +95,7 @@ hardiksaxena2607@gmail.com
 
 `AWS` `S3` `IAM` `EC2` `CloudTrail`
 
-### 🔹 Cybersecurity
+### 🔹 Cybersecurity Tools
 
 `Wireshark` `Burp Suite` `Nmap` `Nessus`
 
@@ -192,7 +211,7 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 
 &nbsp;
 
-<a href="#">
+<a href="https://www.geeksforgeeks.org/user/hardikflxz/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
 </a>
 
@@ -250,7 +269,7 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik2607-tech&theme=github-dark&hide_border=true" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik2607-tech&theme=github-dark&hide_border=true" width="95%" alt="GitHub Activity Graph">
 
 </p>
 
