@@ -262,39 +262,25 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 
 ---
 
+
+
 # 📊 GitHub Stats
 
-<p align="left">
+<img align="left" width="48%" src="./profile/github-stats.svg" alt="GitHub Stats">
 
-<img
-src="./profile/github-stats.svg"
-width="495"
-alt="GitHub Stats"
-/>
+<img align="left" width="48%" src="./profile/top-langs.svg" alt="Most Used Languages">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img
-src="./profile/top-langs.svg"
-width="450"
-alt="Top Languages"
-/>
-
-</p>
+<br clear="left">
 
 ---
 
 # 🔥 GitHub Streak
 
 <p align="left">
-
-<img
-src="https://streak-stats.demolab.com/?user=Hardik2607-tech&theme=github-dark-blue&hide_border=true"
-width="70%"
-alt="GitHub Streak"
-/>
-
+<img width="70%" src="https://streak-stats.demolab.com/?user=Hardik2607-tech&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
 </p>
+
+---
 
 ---
 
