@@ -76,84 +76,33 @@ hardiksaxena2607@gmail.com
 📊 **CGPA: 8.00**
 
 
-
 <hr>
 
 # 🛠️ Technical Skills
 
-<table width="100%">
-<tr>
+### 🔹 Core CS Skills
 
-<td width="33.33%" valign="top">
+Data Structures & Algorithms &nbsp; • &nbsp; Database Management Systems &nbsp; • &nbsp; Object-Oriented Programming &nbsp; • &nbsp; Operating Systems &nbsp; • &nbsp; Computer Networks
 
-### 💻 Core CS
+### 🔹 Programming Languages
 
-`DSA` `DBMS`  
-`OOP` `Operating Systems`  
-`Computer Networks`
+<img height="40" src="https://img.shields.io/badge/C-1A1A1A?style=flat-square&logo=c&logoColor=white"> <img height="40" src="https://img.shields.io/badge/C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white"> <img height="40" src="https://img.shields.io/badge/Python-F2C94C?style=flat-square&logo=python&logoColor=black">
 
-</td>
+### 🔹 Cloud Technologies
 
-<td width="33.33%" valign="top">
+<img height="40" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> <img height="40" src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"> <img height="40" src="https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white"> <img height="40" src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"> <img height="40" src="https://img.shields.io/badge/CloudTrail-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white">
 
-### 👨‍💻 Programming
+### 🔹 Cybersecurity Tools
 
-`C` `C++` `Python`
+<img height="40" src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"> <img height="40" src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"> <img height="40" src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"> <img height="40" src="https://img.shields.io/badge/Nessus-00AEEF?style=flat-square"> <img height="40" src="https://img.shields.io/badge/Metasploit-1A1A1A?style=flat-square&logo=metasploit&logoColor=white"> <img height="40" src="https://img.shields.io/badge/John%20the%20Ripper-444444?style=flat-square"> <img height="40" src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white">
 
-<br>
+### 🔹 Security Concepts
 
+<img height="40" src="https://img.shields.io/badge/Penetration%20Testing-E67E22?style=flat-square"> <img height="40" src="https://img.shields.io/badge/Vulnerability%20Assessment-D4A24C?style=flat-square"> <img height="40" src="https://img.shields.io/badge/Incident%20Response-1976D2?style=flat-square"> <img height="40" src="https://img.shields.io/badge/Network%20Security-0077B6?style=flat-square"> <img height="40" src="https://img.shields.io/badge/OWASP%20Top%2010-444444?style=flat-square&logo=owasp&logoColor=white"> <img height="40" src="https://img.shields.io/badge/Cryptography-7B4AB8?style=flat-square"> <img height="40" src="https://img.shields.io/badge/Secure%20Software%20Development-4CAF50?style=flat-square"> <img height="40" src="https://img.shields.io/badge/Cloud%20Security-FF8C00?style=flat-square">
 
-</td>
+### 🔹 Development & Tools
 
-<td width="33.33%" valign="top">
- 
-
-### ⚙️ Development
-
-`Git` `GitHub`  
-`VS Code` `Postman`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33.33%" valign="top">
-
-### 🔧 Security Tools
-
-`Wireshark` `Burp Suite`  
-`Nmap` `John the Ripper`
-`Metasploit`  `Nessus`   
-`Cisco Packet Tracer`
-
-</td>
-
-<td width="33.33%" valign="top">
-
-### 🛡️ Cybersecurity
-
-`Penetration Testing`   
-`Incident Response`  
-`Network Security`  
-`OWASP Top 10`  
-`Cryptography` 
-
-</td>
-
-<td width="33.33%" valign="top">
-
-### ☁️ Cloud Security
-
-`AWS Security`  
-`IAM` `S3` `EC2`  
-`CloudTrail`  
-
-</td>
-
-</tr>
-</table>
+<img height="40" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img height="40" src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white"> <img height="40" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> <img height="40" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
 
 <hr>
 
