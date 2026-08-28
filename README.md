@@ -356,10 +356,10 @@ Developed intelligent fuzz testing pipelines using machine learning to improve v
 
 # 🧠 Currently Learning
 
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<table width="100%">
 <tr>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### 🔥 Advanced DSA
 
@@ -367,7 +367,7 @@ Developed intelligent fuzz testing pipelines using machine learning to improve v
 
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### 🐍 Python
 
@@ -375,11 +375,7 @@ Developed intelligent fuzz testing pipelines using machine learning to improve v
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### ☁️ AWS
 
@@ -387,7 +383,7 @@ Developed intelligent fuzz testing pipelines using machine learning to improve v
 
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### 🛡️ Cloud Security
 
@@ -399,7 +395,7 @@ Developed intelligent fuzz testing pipelines using machine learning to improve v
 
 <tr>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### 🧪 Penetration Testing
 
@@ -407,7 +403,7 @@ Developed intelligent fuzz testing pipelines using machine learning to improve v
 
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### 🔐 Cryptography
 
@@ -415,11 +411,7 @@ Developed intelligent fuzz testing pipelines using machine learning to improve v
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### ⚙️ DevSecOps
 
@@ -427,7 +419,7 @@ Developed intelligent fuzz testing pipelines using machine learning to improve v
 
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### 🤖 AI/ML for Cybersecurity
 
