@@ -3,7 +3,6 @@ name: Update GitHub Profile Stats
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -15,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
