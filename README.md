@@ -2,63 +2,30 @@
 
 ### 🔐 Cybersecurity & Forensics Undergraduate | Cybersecurity | Cloud Security | Secure Software Development
 
+---
+
 <table>
 <tr>
-<td width="75%" valign="top">
+<td width="55%" valign="top">
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<p>
-I'm a <i>B.Tech Cybersecurity & Forensics student</i> at
-<b>UPES Dehradun</b>, passionate about building secure software
-and solving real-world cybersecurity challenges. I enjoy developing
-cloud security solutions, vulnerability detection systems, and
-cryptographic applications while continuously strengthening my
-problem-solving skills through DSA.
-</p>
+I'm a **B.Tech Cybersecurity & Forensics student at UPES Dehradun**, passionate about building secure software and solving real-world cybersecurity challenges.
 
-<ul>
+I enjoy developing cloud security solutions, vulnerability detection systems, and cryptographic applications while continuously strengthening my problem-solving skills through DSA.
 
-<li>
-🎓 <b>B.Tech CSE (Cybersecurity & Forensics)</b> –
-UPES Dehradun | CGPA: <b>8.00</b>
-</li>
-
-<li>
-💼 <b>Internship Experience:</b>
-IBM, UJVNL & Right Zone Pvt. Ltd.
-</li>
-
-<li>
-🛡️ <b>Interests:</b>
-Cybersecurity, Cloud Security, Penetration Testing,
-Vulnerability Assessment & Cryptography
-</li>
-
-<li>
-🌱 <b>Currently Learning:</b>
-Advanced DSA, Cloud Security & Secure Software Development
-</li>
-
-<li>
-💬 <b>Ask Me About:</b>
-Python, AWS, Cybersecurity, Cryptography & DSA
-</li>
-
-<li>
-📧 <b>Email:</b>
-<a href="mailto:hardiksaxena2607@gmail.com">
-hardiksaxena2607@gmail.com
-</a>
-</li>
-
-</ul>
+- 🎓 **B.Tech CSE (Cybersecurity & Forensics)** – UPES Dehradun | CGPA: 8.00
+- 💼 **Internship Experience:** IBM, UJVNL & Right Zone Pvt. Ltd.
+- 🛡️ **Interests:** Cybersecurity, Cloud Security, Penetration Testing, Vulnerability Assessment & Cryptography
+- 🌱 **Currently Learning:** Advanced DSA, Cloud Security & Secure Software Development
+- 💬 **Ask Me About:** Python, AWS, Cybersecurity, Cryptography & DSA
+- 📧 **Email:** hardiksaxena2607@gmail.com
 
 </td>
 
-<td width="25%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
-<img src="./image.gif" width="350" alt="Cybersecurity Animation">
+<img src="./image.gif" width="400" alt="Cybersecurity">
 
 </td>
 </tr>
@@ -72,8 +39,9 @@ hardiksaxena2607@gmail.com
 
 **University of Petroleum and Energy Studies (UPES), Dehradun**
 
-📅 **2023 – 2027**  
-📊 **CGPA: 8.00**
+📅 2023 – 2027
+
+📊 CGPA: **8.00**
 
 ---
 
@@ -206,92 +174,106 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 
 # 📜 Certifications
 
-- 🏅 **Cisco Networking Academy — Network Defense**
-- 🏅 **DSPM Fundamentals — Securiti**
-- 🏅 **YHills Cybersecurity Bootcamp**
+- 🏅 Cisco Networking Academy — Network Defense
+- 🏅 DSPM Fundamentals — Securiti
+- 🏅 YHills Cybersecurity Bootcamp
 
 ---
 
 # 🏆 Achievements
 
-- 🥈 **Qualified for Smart India Hackathon 2025 — Internal Round**
-- 📄 **Published Research:**  
-  *A Unified Review of Advanced Paradigms in Spiking Neural Networks*
+- 🥈 Qualified for Smart India Hackathon 2025 — Internal Round
+- 📄 Published Research:
+  **A Unified Review of Advanced Paradigms in Spiking Neural Networks**
 
 ---
 
 # 💻 Coding Profiles
 
-<p align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-<a href="https://leetcode.com/u/Hardik_Saxena/">
-<img src="https://img.shields.io/badge/LEETCODE-PROFILE-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LEETCODE-PROFILE-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
 
-<a href="https://www.geeksforgeeks.org/user/hardikflxz/">
-<img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+<tr>
+<td align="left">
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-5CB800?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-<a href="https://linkedin.com/in/hardik-saxena-b49313299">
-<img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://in.linkedin.com/in/hardik-saxena-b49313299">
+<img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;
+</td>
+</tr>
+
+<tr>
+<td align="left">
 
 <a href="https://github.com/Hardik2607-tech">
-<img src="https://img.shields.io/badge/GITHUB-HARDIK2607--TECH-24292F?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-HARDIK2607--TECH-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;
+</td>
+</tr>
+
+<tr>
+<td align="left">
 
 <a href="mailto:hardiksaxena2607@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img
-src="https://raw.githubusercontent.com/Hardik2607-tech/Hardik2607-tech/main/profile/github-stats.svg"
-width="48%"
-alt="GitHub Stats"
-/>
+<img src="./profile/github-stats.svg" alt="GitHub Stats" />
 
-<img
-src="https://raw.githubusercontent.com/Hardik2607-tech/Hardik2607-tech/main/profile/top-langs.svg"
-width="48%"
-alt="Top Languages"
-/>
+</td>
 
-</p>
+<td width="50%" align="center">
+
+<img src="./profile/top-langs.svg" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=Hardik2607-tech&theme=github-dark-blue&hide_border=true"
-width="70%"
-alt="GitHub Streak"
-/>
-
+<img src="https://streak-stats.demolab.com?user=Hardik2607-tech&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -299,101 +281,90 @@ alt="GitHub Streak"
 # 📈 GitHub Activity
 
 <p align="center">
-
-<a href="https://github.com/Hardik2607-tech">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik2607-tech&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true"
-width="95%"
-alt="Hardik2607-tech GitHub Activity Graph"
-/>
-
-</a>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik2607-tech&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 # 🧠 Currently Learning
 
-<p align="center">
+<table>
+<tr>
+<td align="center">
 
-<img src="https://img.shields.io/badge/ADVANCED%20DSA-IMPORTANT-1F6FEB?style=for-the-badge">
+<img src="https://img.shields.io/badge/ADVANCED_DSA-IMPORTANT-2F80ED?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/PYTHON-LEARNING-F7D154?style=for-the-badge&logo=python&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/AWS-LEARNING-FF8C42?style=for-the-badge&logo=amazonaws&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/CLOUD_SECURITY-LEARNING-FF4B4B?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/PYTHON-LEARNING-F2CC60?style=for-the-badge&logo=python&logoColor=black">
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/AWS-LEARNING-FF8C42?style=for-the-badge&logo=amazonaws&logoColor=white">
+<tr>
+<td align="left">
 
-<img src="https://img.shields.io/badge/CLOUD%20SECURITY-LEARNING-F85149?style=for-the-badge">
+<img src="https://img.shields.io/badge/PENETRATION_TESTING-LEARNING-343A40?style=for-the-badge" />
 
-<br><br>
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/PENETRATION%20TESTING-LEARNING-30363D?style=for-the-badge">
+<tr>
+<td align="left">
 
-<img src="https://img.shields.io/badge/CRYPTOGRAPHY-LEARNING-A371F7?style=for-the-badge">
+<img src="https://img.shields.io/badge/CRYPTOGRAPHY-LEARNING-9B6EF3?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/DEVSECOPS-LEARNING-1F9CF0?style=for-the-badge">
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/AI%2FML%20FOR%20CYBERSECURITY-LEARNING-6DB33F?style=for-the-badge">
+<tr>
+<td align="left">
 
-</p>
+<img src="https://img.shields.io/badge/DEVSECOPS-LEARNING-2196F3?style=for-the-badge" />
+
+</td>
+</tr>
+
+<tr>
+<td align="left">
+
+<img src="https://img.shields.io/badge/AI%2FML_FOR_CYBERSECURITY-LEARNING-65B93C?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🎯 Career Interests
 
-<p align="center">
-
-🔐 <b>Cybersecurity</b>
-&nbsp; • &nbsp;
-☁️ <b>Cloud Security</b>
-&nbsp; • &nbsp;
-🛡️ <b>Application Security</b>
-&nbsp; • &nbsp;
-⚙️ <b>Security Engineering</b>
-&nbsp; • &nbsp;
-🚀 <b>DevSecOps</b>
-&nbsp; • &nbsp;
-🔎 <b>Digital Forensics</b>
-
-</p>
+🔐 Cybersecurity &nbsp; • &nbsp;
+☁️ Cloud Security &nbsp; • &nbsp;
+🛡️ Application Security &nbsp; • &nbsp;
+⚙️ Security Engineering &nbsp; • &nbsp;
+🚀 DevSecOps &nbsp; • &nbsp;
+🔎 Digital Forensics
 
 ---
 
 # 📈 Profile Focus
 
-<p align="center">
+### 🚀 Thanks for visiting my profile!
 
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-F85149?style=for-the-badge">
+🔐 Building secure systems.
 
-<img src="https://img.shields.io/badge/FOCUS-CLOUD%20SECURITY-FF8C42?style=for-the-badge">
+☁️ Exploring cloud security.
 
-<img src="https://img.shields.io/badge/FOCUS-SECURE%20SOFTWARE-1F9CF0?style=for-the-badge">
+💻 Solving problems with code.
 
-<img src="https://img.shields.io/badge/FOCUS-DSA-6DB33F?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/FOCUS-CRYPTOGRAPHY-A371F7?style=for-the-badge">
-
-</p>
+Let's build secure, scalable and reliable systems together.
 
 ---
 
-<h3 align="center">
-
-🚀 Thanks for visiting my profile!
-
-</h3>
-
 <p align="center">
 
-🔐 Building secure systems.  
-☁️ Exploring cloud security.  
-💻 Solving problems with code.
-
-</p>
-
-<p align="center">
-
-<b>Let's build secure, scalable and reliable systems together.</b>
+### 🔐 Secure by Design • ☁️ Cloud by Default • 💻 Code with Purpose
 
 </p>
