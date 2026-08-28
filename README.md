@@ -25,8 +25,7 @@ UPES Dehradun | CGPA: <b>8.00</b>
 </li>
 
 <li>
-💼 <b>Internship Experience:</b>
-IBM, UJVNL & Right Zone Pvt. Ltd.
+💼 <b>Internship Experience:</b> IBM, UJVNL & Right Zone Pvt. Ltd.
 </li>
 
 <li>
@@ -72,7 +71,8 @@ hardiksaxena2607@gmail.com
 
 **University of Petroleum and Energy Studies (UPES), Dehradun**
 
-📅 **2023 – 2027**  
+📅 **2023 – 2027**
+
 📊 **CGPA: 8.00**
 
 ---
@@ -215,20 +215,20 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 # 🏆 Achievements
 
 - 🥈 **Qualified for Smart India Hackathon 2025 — Internal Round**
-- 📄 **Published Research:**  
+- 📄 **Published Research:**
   *A Unified Review of Advanced Paradigms in Spiking Neural Networks*
 
 ---
 
 # 💻 Coding Profiles
 
-<p align="center">
+<p align="left">
 
 <a href="https://leetcode.com/u/Hardik_Saxena/">
 <img src="https://img.shields.io/badge/LEETCODE-PROFILE-orange?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.geeksforgeeks.org/user/hardikflxz/">
 <img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
@@ -240,19 +240,19 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://linkedin.com/in/hardik-saxena-b49313299">
 <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Hardik2607-tech">
 <img src="https://img.shields.io/badge/GITHUB-HARDIK2607--TECH-24292F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:hardiksaxena2607@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
@@ -264,17 +264,19 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
 
 <img
-src="https://raw.githubusercontent.com/Hardik2607-tech/Hardik2607-tech/main/profile/github-stats.svg"
-width="48%"
+src="./profile/github-stats.svg"
+width="495"
 alt="GitHub Stats"
 />
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img
-src="https://raw.githubusercontent.com/Hardik2607-tech/Hardik2607-tech/main/profile/top-langs.svg"
-width="48%"
+src="./profile/top-langs.svg"
+width="495"
 alt="Top Languages"
 />
 
@@ -284,7 +286,7 @@ alt="Top Languages"
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<p align="left">
 
 <img
 src="https://streak-stats.demolab.com/?user=Hardik2607-tech&theme=github-dark-blue&hide_border=true"
@@ -298,7 +300,7 @@ alt="GitHub Streak"
 
 # 📈 GitHub Activity
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/Hardik2607-tech">
 
@@ -316,13 +318,19 @@ alt="Hardik2607-tech GitHub Activity Graph"
 
 # 🧠 Currently Learning
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/ADVANCED%20DSA-IMPORTANT-1F6FEB?style=for-the-badge">
 
+&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/PYTHON-LEARNING-F2CC60?style=for-the-badge&logo=python&logoColor=black">
 
+&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/AWS-LEARNING-FF8C42?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/CLOUD%20SECURITY-LEARNING-F85149?style=for-the-badge">
 
@@ -330,9 +338,15 @@ alt="Hardik2607-tech GitHub Activity Graph"
 
 <img src="https://img.shields.io/badge/PENETRATION%20TESTING-LEARNING-30363D?style=for-the-badge">
 
+&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/CRYPTOGRAPHY-LEARNING-A371F7?style=for-the-badge">
 
+&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/DEVSECOPS-LEARNING-1F9CF0?style=for-the-badge">
+
+&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/AI%2FML%20FOR%20CYBERSECURITY-LEARNING-6DB33F?style=for-the-badge">
 
@@ -342,7 +356,7 @@ alt="Hardik2607-tech GitHub Activity Graph"
 
 # 🎯 Career Interests
 
-<p align="center">
+<p align="left">
 
 🔐 <b>Cybersecurity</b>
 &nbsp; • &nbsp;
@@ -362,15 +376,23 @@ alt="Hardik2607-tech GitHub Activity Graph"
 
 # 📈 Profile Focus
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-F85149?style=for-the-badge">
 
+&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/FOCUS-CLOUD%20SECURITY-FF8C42?style=for-the-badge">
+
+&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/FOCUS-SECURE%20SOFTWARE-1F9CF0?style=for-the-badge">
 
+&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/FOCUS-DSA-6DB33F?style=for-the-badge">
+
+&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/FOCUS-CRYPTOGRAPHY-A371F7?style=for-the-badge">
 
@@ -378,13 +400,13 @@ alt="Hardik2607-tech GitHub Activity Graph"
 
 ---
 
-<h3 align="center">
+<h3 align="left">
 
 🚀 Thanks for visiting my profile!
 
 </h3>
 
-<p align="center">
+<p align="left">
 
 🔐 Building secure systems.  
 ☁️ Exploring cloud security.  
@@ -392,7 +414,7 @@ alt="Hardik2607-tech GitHub Activity Graph"
 
 </p>
 
-<p align="center">
+<p align="left">
 
 <b>Let's build secure, scalable and reliable systems together.</b>
 
