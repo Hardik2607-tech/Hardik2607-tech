@@ -266,7 +266,7 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 
 <hr>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
 
@@ -306,7 +306,7 @@ alt="Most Used Languages"
 
 <hr>
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="left">
 
