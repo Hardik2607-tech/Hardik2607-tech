@@ -1,6 +1,10 @@
 # Hi 👋, I'm Hardik Saxena
 
-### Cybersecurity & Forensics Undergraduate | Cybersecurity | Cloud Security | Secure Software Development
+### 🔐 Cybersecurity & Forensics Undergraduate | Cybersecurity | Cloud Security | Secure Software Development
+
+<p align="center">
+  <img src="./assets/cybersecurity.png" width="500" alt="Cybersecurity">
+</p>
 
 ---
 
@@ -13,7 +17,7 @@ I'm a B.Tech Cybersecurity & Forensics student at UPES Dehradun, passionate abou
 - 🛡️ **Interests:** Cybersecurity, Cloud Security, Penetration Testing, Vulnerability Assessment & Cryptography
 - 🌱 **Currently Learning:** Advanced DSA, Cloud Security & Secure Software Development
 - 💬 **Ask Me About:** Python, AWS, Cybersecurity, Cryptography & DSA
-- 📧 **Email:** hardiksaxena2626@gmail.com
+- 📧 **Email:** [hardiksaxena2607@gmail.com](mailto:hardiksaxena2607@gmail.com)
 
 ---
 
@@ -21,12 +25,13 @@ I'm a B.Tech Cybersecurity & Forensics student at UPES Dehradun, passionate abou
 
 ### B.Tech in Computer Science (Cybersecurity & Forensics)
 
-**University of Petroleum and Energy Studies (UPES), Dehradun**  
+**University of Petroleum and Energy Studies (UPES), Dehradun**
+
 **2023 – 2027** | **CGPA: 8.00**
 
 ---
 
-## 🛠 Technical Skills
+## 🛠️ Technical Skills
 
 ### 🔹 Core CS Skills
 
@@ -46,12 +51,14 @@ I'm a B.Tech Cybersecurity & Forensics student at UPES Dehradun, passionate abou
 
 ### 🔹 Cybersecurity
 
-`Wireshark` `Burp Suite` `Nmap` `Nessus` `Metasploit` `John the Ripper` `Cisco Packet Tracer`
+`Wireshark` `Burp Suite` `Nmap` `Nessus` `Metasploit`  
+`John the Ripper` `Cisco Packet Tracer`
 
 ### 🔹 Security Concepts
 
-`Penetration Testing` `Vulnerability Assessment` `Incident Response` `Network Security`
-`OWASP Top 10` `Cryptography` `Secure Software Development`
+`Penetration Testing` `Vulnerability Assessment`  
+`Incident Response` `Network Security` `OWASP Top 10`  
+`Cryptography` `Secure Software Development`
 
 ### 🔹 Tools
 
@@ -119,29 +126,52 @@ Developed intelligent fuzz testing pipelines using machine learning to improve v
 
 ## 💻 Coding Profiles
 
-- 🟠 **LeetCode:** https://leetcode.com/u/Hardik_Saxena/
-- 🟢 **GeeksforGeeks:** *(Add your profile link)*
+- 🟠 [LeetCode](https://leetcode.com/u/Hardik_Saxena/)
+- 🟢 **GeeksforGeeks:** Add your profile link
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** https://linkedin.com/in/hardik-saxena-b49313299
-- 💻 **GitHub:** https://github.com/Hardik2607-tech
-- 📧 **Email:** hardiksaxena2607@gmail.com
+<p align="left">
+  <a href="https://linkedin.com/in/hardik-saxena-b49313299">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Hardik2607-tech">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:hardiksaxena2607@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-*(GitHub Stats Card)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hardik2607-tech&show_icons=true&theme=dark&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik2607-tech&layout=compact&theme=dark&hide_border=true" height="170">
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-*(GitHub Streak Card)*
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hardik2607-tech&theme=dark&hide_border=true" alt="GitHub Streak">
+</p>
 
 ---
 
-### 🚀 Thanks for visiting! Let's build secure, scalable, and reliable systems together.
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik2607-tech&theme=github-dark&hide_border=true" width="95%">
+</p>
+
+---
+
+### 🚀 Thanks for visiting!
+
+**Let's build secure, scalable, and reliable systems together.**
