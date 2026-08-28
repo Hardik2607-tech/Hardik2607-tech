@@ -262,46 +262,53 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 
 ---
 
-
-
 <hr>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<div align="left">
+<p align="left">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Hardik2607-tech&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"
-  width="48%"
+<a href="https://github.com/Hardik2607-tech">
+<img
+src="https://github-readme-stats.vercel.app/api?username=Hardik2607-tech&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"
+width="48%"
+align="left"
+alt="Hardik2607-tech GitHub Stats"
 />
+</a>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik2607-tech&layout=compact&theme=github_dark&hide_border=false&langs_count=8"
-  width="48%"
+<a href="https://github.com/Hardik2607-tech">
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik2607-tech&layout=compact&theme=github_dark&hide_border=false&langs_count=8"
+width="48%"
+align="right"
+alt="Most Used Languages"
 />
+</a>
 
-</div>
+</p>
 
-<br><br>
-
-<hr>
-
-## 🔥 GitHub Streak
+<br clear="both">
 
 <br>
 
-<div align="left">
-
-<img 
-  src="https://streak-stats.demolab.com?user=Hardik2607-tech&theme=github-dark-blue&hide_border=false"
-  width="100%"
-/>
-
-</div>
-
-<br><br>
-
 <hr>
+
+# 🔥 GitHub Streak
+
+<p align="left">
+
+<a href="https://github.com/Hardik2607-tech">
+<img
+src="https://streak-stats.demolab.com?user=Hardik2607-tech&theme=github-dark-blue&hide_border=false"
+width="100%"
+alt="GitHub Streak"
+/>
+</a>
+
+</p>
+
+---
 
 # 📈 GitHub Activity
 
