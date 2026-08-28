@@ -424,51 +424,27 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 
 # 📈 Profile Focus
 
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
-
+<table width="100%">
 <tr>
-
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### 🔐 Cybersecurity
 
-Protecting systems, networks and data from evolving threats.
+Protecting systems, networks, and data from evolving threats.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### ☁️ Cloud Security
 
 Securing cloud environments and ensuring data confidentiality.
 
 </td>
-
 </tr>
 
 <tr>
-
-<td width="50%" valign="top">
-
-### 🛡️ Secure Software
-
-Building secure, reliable and vulnerability-resistant software.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 DSA
-
-Strengthening problem-solving skills and algorithmic thinking.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### 🔒 Cryptography
 
@@ -476,16 +452,35 @@ Understanding cryptographic principles and building secure systems.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
+
+### 💻 DSA
+
+Strengthening problem-solving skills and algorithmic thinking.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🛡️ Application Security
+
+Building and securing applications against common vulnerabilities.
 
 </td>
 
-</tr>
+<td width="50%" align="center">
 
+### ⚙️ Security Engineering
+
+Designing secure, reliable, and resilient systems.
+
+</td>
+</tr>
 </table>
 
 <hr>
-
 ---
 
 <h3 align="left">
