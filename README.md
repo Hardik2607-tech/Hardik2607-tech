@@ -15,12 +15,21 @@ I'm a **B.Tech Cybersecurity & Forensics student at UPES Dehradun**, passionate 
 
 I enjoy developing cloud security solutions, vulnerability detection systems, and cryptographic applications while continuously strengthening my problem-solving skills through DSA.
 
-- 🎓 **B.Tech CSE (Cybersecurity & Forensics)** – UPES Dehradun | **CGPA: 8.00**
-- 💼 **Internships:** IBM, UJVNL & Right Zone Pvt. Ltd.
-- 🛡️ **Interests:** Cybersecurity, Cloud Security, Penetration Testing, Vulnerability Assessment & Cryptography
-- 🌱 **Currently Learning:** Advanced DSA, Cloud Security & Secure Software Development
-- 💬 **Ask Me About:** Python, AWS, Cybersecurity, Cryptography & DSA
-- 📧 **Email:** [hardiksaxena2607@gmail.com](mailto:hardiksaxena2607@gmail.com)
+<ul>
+
+<li>🎓 <b>B.Tech CSE (Cybersecurity & Forensics)</b> – UPES Dehradun | <b>CGPA: 8.00</b></li>
+
+<li>💼 <b>Internship Experience:</b> IBM, UJVNL & Right Zone Pvt. Ltd.</li>
+
+<li>🛡️ <b>Interests:</b> Cybersecurity, Cloud Security, Penetration Testing, Vulnerability Assessment & Cryptography</li>
+
+<li>🌱 <b>Currently Learning:</b> Advanced DSA, Cloud Security & Secure Software Development</li>
+
+<li>💬 <b>Ask Me About:</b> Python, AWS, Cybersecurity, Cryptography & DSA</li>
+
+<li>📧 <b>Email:</b> <a href="mailto:hardiksaxena2607@gmail.com">hardiksaxena2607@gmail.com</a></li>
+
+</ul>
 
 </td>
 
@@ -37,7 +46,8 @@ I enjoy developing cloud security solutions, vulnerability detection systems, an
 
 ## 🎓 Education
 
-**B.Tech in Computer Science — Cybersecurity & Forensics**  
+**B.Tech in Computer Science (Cybersecurity & Forensics)**
+
 **University of Petroleum and Energy Studies (UPES), Dehradun**
 
 📅 **2023 – 2027** &nbsp;&nbsp; 📊 **CGPA: 8.00**
@@ -50,7 +60,8 @@ I enjoy developing cloud security solutions, vulnerability detection systems, an
 
 `Data Structures & Algorithms` &nbsp;
 `Database Management Systems` &nbsp;
-`Object-Oriented Programming` &nbsp;
+`Object-Oriented Programming`
+
 `Operating Systems` &nbsp;
 `Computer Networks`
 
@@ -89,7 +100,8 @@ I enjoy developing cloud security solutions, vulnerability detection systems, an
 `Penetration Testing` &nbsp;
 `Vulnerability Assessment` &nbsp;
 `Incident Response` &nbsp;
-`Network Security` &nbsp;
+`Network Security`
+
 `OWASP Top 10` &nbsp;
 `Cryptography` &nbsp;
 `Secure Software Development` &nbsp;
@@ -141,14 +153,14 @@ I enjoy developing cloud security solutions, vulnerability detection systems, an
 
 Developed automated security scanners for AWS services to identify cloud security misconfigurations.
 
-**Services:**
+**Services**
 
 - Amazon S3
 - IAM
 - EC2
 - CloudTrail
 
-**Features:**
+**Features**
 
 - Automated security scanning
 - Rule-based risk classification
@@ -166,7 +178,7 @@ Developed automated security scanners for AWS services to identify cloud securit
 
 End-to-end encrypted communication and file-sharing application.
 
-**Security Features:**
+**Security Features**
 
 - 🔐 End-to-end encryption
 - 🔑 Secure key exchange
@@ -186,7 +198,7 @@ End-to-end encrypted communication and file-sharing application.
 
 Intelligent fuzz-testing pipeline designed to improve vulnerability discovery and software robustness.
 
-**Focus Areas:**
+**Focus Areas**
 
 - Automated fuzz testing
 - Vulnerability detection
@@ -229,7 +241,7 @@ Intelligent fuzz-testing pipeline designed to improve vulnerability discovery an
 
 ## 💻 Coding Profiles
 
-<p align="center">
+<p align="left">
 
 <a href="https://leetcode.com/u/Hardik_Saxena/">
 <img src="https://img.shields.io/badge/LeetCode-PROFILE-orange?style=for-the-badge&logo=leetcode&logoColor=white">
@@ -258,13 +270,13 @@ Intelligent fuzz-testing pipeline designed to improve vulnerability discovery an
 <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://github.com/Hardik2607-tech">
 <img src="https://img.shields.io/badge/GITHUB-HARDIK2607--TECH-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="mailto:hardiksaxena2607@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
@@ -274,26 +286,42 @@ Intelligent fuzz-testing pipeline designed to improve vulnerability discovery an
 
 ---
 
-# 📊 GitHub Stats
-
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
+
+## 📊 GitHub Stats
+
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hardik2607-tech&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" width="100%" alt="GitHub Stats">
 
+</p>
+
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
+
+## 🔥 GitHub Streak
+
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Hardik2607-tech&theme=github-dark&hide_border=true" width="100%" alt="GitHub Streak">
 
+</p>
+
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
+
+## 💻 Top Languages
+
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik2607-tech&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="100%" alt="Top Languages">
+
+</p>
 
 </td>
 
@@ -302,11 +330,11 @@ Intelligent fuzz-testing pipeline designed to improve vulnerability discovery an
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik2607-tech&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik2607-tech&theme=github-compact&hide_border=true&area=true&custom_title=Hardik2607-tech%20-%20GitHub%20Activity" width="95%" alt="Hardik2607-tech GitHub Activity Graph">
 
 </p>
 
@@ -344,6 +372,20 @@ Intelligent fuzz-testing pipeline designed to improve vulnerability discovery an
 🚀 <b>DevSecOps</b>
 &nbsp; • &nbsp;
 🔎 <b>Digital Forensics</b>
+
+</p>
+
+---
+
+## 📈 Profile Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-Cloud%20Security-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-Secure%20Software-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-DSA-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-Cryptography-purple?style=for-the-badge">
 
 </p>
 
