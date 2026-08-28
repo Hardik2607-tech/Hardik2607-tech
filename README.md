@@ -266,26 +266,26 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 
 <hr>
 
-## 📊 GitHub Stats
+<hr>
+
+# 📊 GitHub Stats
 
 <p align="left">
-
 <a href="https://github.com/Hardik2607-tech">
 <img
 src="https://github-readme-stats.vercel.app/api?username=Hardik2607-tech&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"
-width="48%"
+width="47%"
 alt="Hardik2607-tech GitHub Stats"
-/>
-</a>&nbsp;&nbsp;
+/></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Hardik2607-tech">
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik2607-tech&layout=compact&theme=github_dark&hide_border=false&langs_count=8"
-width="48%"
+width="47%"
 alt="Most Used Languages"
-/>
-</a>
-
+/></a>
 </p>
 
 <hr>
