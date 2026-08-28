@@ -39,7 +39,7 @@ hardiksaxena2607@gmail.com
 
 <td width="25%" align="center" valign="middle">
 
-<img src="./cybersecurity.png" width="350" alt="Cybersecurity">
+<img src="./image.gif" width="350" alt="Cybersecurity">
 
 </td>
 </tr>
