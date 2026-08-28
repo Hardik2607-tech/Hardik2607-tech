@@ -292,15 +292,15 @@ alt="Most Used Languages"
 
 <br>
 
-<div align="left">
+<p align="left">
 
 <img
 src="https://streak-stats.demolab.com?user=Hardik2607-tech&theme=github-dark-blue&hide_border=false"
 width="100%"
-alt="Hardik2607-tech GitHub Streak"
+alt="GitHub Streak"
 />
 
-</div>
+</p>
 
 <br><br>
 
@@ -328,59 +328,35 @@ alt="Hardik2607-tech GitHub Activity Graph"
 
 <p align="left">
 
-<img
-src="https://img.shields.io/badge/ADVANCED%20DSA-IMPORTANT-1F6FEB?style=for-the-badge"
-alt="Advanced DSA"
-/>
+<img src="https://img.shields.io/badge/ADVANCED%20DSA-IMPORTANT-1F6FEB?style=for-the-badge">
 
 &nbsp;&nbsp;
 
-<img
-src="https://img.shields.io/badge/PYTHON-LEARNING-F2CC60?style=for-the-badge&logo=python&logoColor=black"
-alt="Python"
-/>
+<img src="https://img.shields.io/badge/PYTHON-LEARNING-F2CC60?style=for-the-badge&logo=python&logoColor=black">
 
 &nbsp;&nbsp;
 
-<img
-src="https://img.shields.io/badge/AWS-LEARNING-FF8C42?style=for-the-badge&logo=amazonaws&logoColor=white"
-alt="AWS"
-/>
+<img src="https://img.shields.io/badge/AWS-LEARNING-FF8C42?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 &nbsp;&nbsp;
 
-<img
-src="https://img.shields.io/badge/CLOUD%20SECURITY-LEARNING-F85149?style=for-the-badge"
-alt="Cloud Security"
-/>
+<img src="https://img.shields.io/badge/CLOUD%20SECURITY-LEARNING-F85149?style=for-the-badge">
 
 <br><br>
 
-<img
-src="https://img.shields.io/badge/PENETRATION%20TESTING-LEARNING-30363D?style=for-the-badge"
-alt="Penetration Testing"
-/>
+<img src="https://img.shields.io/badge/PENETRATION%20TESTING-LEARNING-30363D?style=for-the-badge">
 
 &nbsp;&nbsp;
 
-<img
-src="https://img.shields.io/badge/CRYPTOGRAPHY-LEARNING-A371F7?style=for-the-badge"
-alt="Cryptography"
-/>
+<img src="https://img.shields.io/badge/CRYPTOGRAPHY-LEARNING-A371F7?style=for-the-badge">
 
 &nbsp;&nbsp;
 
-<img
-src="https://img.shields.io/badge/DEVSECOPS-LEARNING-1F9CF0?style=for-the-badge"
-alt="DevSecOps"
-/>
+<img src="https://img.shields.io/badge/DEVSECOPS-LEARNING-1F9CF0?style=for-the-badge">
 
 &nbsp;&nbsp;
 
-<img
-src="https://img.shields.io/badge/AI%2FML%20FOR%20CYBERSECURITY-LEARNING-6DB33F?style=for-the-badge"
-alt="AI ML for Cybersecurity"
-/>
+<img src="https://img.shields.io/badge/AI%2FML%20FOR%20CYBERSECURITY-LEARNING-6DB33F?style=for-the-badge">
 
 </p>
 
@@ -410,48 +386,29 @@ alt="AI ML for Cybersecurity"
 
 <p align="left">
 
-<img
-src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-F85149?style=for-the-badge"
-alt="Cybersecurity"
-/>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-F85149?style=for-the-badge">
 
 &nbsp;&nbsp;
 
-<img
-src="https://img.shields.io/badge/FOCUS-CLOUD%20SECURITY-FF8C42?style=for-the-badge"
-alt="Cloud Security"
-/>
+<img src="https://img.shields.io/badge/FOCUS-CLOUD%20SECURITY-FF8C42?style=for-the-badge">
 
 &nbsp;&nbsp;
 
-<img
-src="https://img.shields.io/badge/FOCUS-SECURE%20SOFTWARE-1F9CF0?style=for-the-badge"
-alt="Secure Software"
-/>
+<img src="https://img.shields.io/badge/FOCUS-SECURE%20SOFTWARE-1F9CF0?style=for-the-badge">
 
 &nbsp;&nbsp;
 
-<img
-src="https://img.shields.io/badge/FOCUS-DSA-6DB33F?style=for-the-badge"
-alt="DSA"
-/>
+<img src="https://img.shields.io/badge/FOCUS-DSA-6DB33F?style=for-the-badge">
 
 &nbsp;&nbsp;
 
-<img
-src="https://img.shields.io/badge/FOCUS-CRYPTOGRAPHY-A371F7?style=for-the-badge"
-alt="Cryptography"
-/>
+<img src="https://img.shields.io/badge/FOCUS-CRYPTOGRAPHY-A371F7?style=for-the-badge">
 
 </p>
 
 ---
 
-<h3 align="left">
-
-🚀 Thanks for visiting my profile!
-
-</h3>
+# 🚀 Thanks for visiting my profile!
 
 <p align="left">
 
