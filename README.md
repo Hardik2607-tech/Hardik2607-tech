@@ -265,23 +265,35 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 
 # 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/Hardik2607-tech">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=Hardik2607-tech&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"
-      width="400"
-      alt="Hardik2607-tech GitHub Stats"
-    />
-  </a><img src="https://github.com/Hardik2607-tech" width="10">
+<table>
+<tr>
 
-  <a href="https://github.com/Hardik2607-tech">
-    <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hardik2607-tech&layout=compact&theme=github_dark&hide_border=false&langs_count=8"
-      width="400"
-      alt="Most Used Languages"
-    />
-  </a>
-</p>
+<td width="50%" align="center">
+
+<a href="https://github.com/Hardik2607-tech">
+<img
+src="https://github-readme-stats.vercel.app/api?username=Hardik2607-tech&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"
+width="100%"
+alt="Hardik2607-tech GitHub Stats"
+/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/Hardik2607-tech">
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik2607-tech&layout=compact&theme=github_dark&hide_border=false&langs_count=8"
+width="100%"
+alt="Most Used Languages"
+/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 <hr>
 
