@@ -268,7 +268,7 @@ Developed intelligent fuzz testing pipelines using machine learning techniques t
 
 <img
 src="./profile/github-stats.svg"
-width="450"
+width="495"
 alt="GitHub Stats"
 />
 
